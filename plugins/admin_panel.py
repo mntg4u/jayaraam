@@ -91,14 +91,3 @@ async def send_msg(user_id, message):
         logger.error(f"{user_id} : {e}")
         return 500
  
-
-
-
-
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @JishuBotz
-# Developer @JishuDeveloper
